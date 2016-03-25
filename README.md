@@ -1,4 +1,8 @@
 # angular2-rest
+
+TODO add dependencie angular2-jwt 
+add config and DI example, baseUrl default kitoltese
+
 Angular2 HTTP client to consume RESTful services. Built on angular2/http with TypeScript.  
 **Note:** this solutions is not production ready, it's in a very basic alpha state. Any ideas or contributions are very welcomed :)
 
